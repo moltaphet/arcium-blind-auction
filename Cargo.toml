@@ -1,0 +1,8 @@
+[package]
+name = "arcium-blind-auction"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+borsh = { version = "1.0", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
