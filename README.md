@@ -60,7 +60,7 @@ test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
 🚀 Getting Started
 Clone the repository: 
 ```
-git clone https://github.com/your-username/arcium-blind-auction
+git clone [https://github.com/](https://github.com/moltaphet/arcium-blind-auction)
 ```
 Run tests: 
 ```
